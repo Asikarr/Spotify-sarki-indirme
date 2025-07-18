@@ -1,0 +1,24 @@
+# Config dosyası (API bilgileri içerir)
+config.json
+
+# İndirilen dosyalar
+spotify_downloads/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test dosyaları
+test_download.*
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db 

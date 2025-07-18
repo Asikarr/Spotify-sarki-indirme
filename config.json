@@ -1,0 +1,11 @@
+{
+    "spotify": {
+        "client_id": "",
+        "client_secret": ""
+    },
+    "settings": {
+        "download_folder": "spotify_downloads",
+        "max_workers": 4,
+        "auto_update_ytdlp": true
+    }
+}
