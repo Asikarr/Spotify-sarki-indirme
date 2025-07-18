@@ -1,7 +1,7 @@
 {
     "spotify": {
-        "client_id": "",
-        "client_secret": ""
+        "client_id": "your_client_id",
+        "client_secret": "your_client_secret"
     },
     "settings": {
         "download_folder": "spotify_downloads",
